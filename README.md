@@ -1,8 +1,6 @@
-![image](https://user-images.githubusercontent.com/117002193/224110363-cf71fd82-7bd3-4530-a876-9577d4e82e8a.png)
+<img width="601" alt="image" src="https://user-images.githubusercontent.com/117002193/224113035-e81f97f6-d8f2-4d27-9044-10f2ae73ebd2.png">
 
 
-
-(이미지 : 애경산업, https://www.ezyeconomy.com/news/articleView.html?idxno=118079)
 
 <br>
 
