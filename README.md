@@ -26,7 +26,10 @@
 
 
 <br>
-<h2> PPT 자료 </h2>
+<hr>
+<br>
+
+<h2> 📁 PPT 자료 📁 </h2>
 <img width="435" alt="image" src="https://github.com/imymemineyay/Mini-Project-1/assets/117002193/bd083c5e-48a0-4180-8d86-0602928f4859">
 <img width="435" alt="image" src="https://github.com/imymemineyay/Mini-Project-1/assets/117002193/b29c033e-52dc-4c80-b097-9e13148ac285">
 <img width="435" alt="image" src="https://github.com/imymemineyay/Mini-Project-1/assets/117002193/017d6828-c84c-4e58-b6a3-d91e553908e6">
