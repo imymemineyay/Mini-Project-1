@@ -25,3 +25,12 @@
 - 이전 결과 보기
 
 
+<br>
+<h2> PPT 자료 </h2>
+<img width="435" alt="image" src="https://github.com/imymemineyay/Mini-Project-1/assets/117002193/bd083c5e-48a0-4180-8d86-0602928f4859">
+<img width="435" alt="image" src="https://github.com/imymemineyay/Mini-Project-1/assets/117002193/b29c033e-52dc-4c80-b097-9e13148ac285">
+<img width="435" alt="image" src="https://github.com/imymemineyay/Mini-Project-1/assets/117002193/017d6828-c84c-4e58-b6a3-d91e553908e6">
+<img width="435" alt="image" src="https://github.com/imymemineyay/Mini-Project-1/assets/117002193/cd15f8cf-57e1-4b85-a8a6-434477c3f830">
+<img width="435" alt="image" src="https://github.com/imymemineyay/Mini-Project-1/assets/117002193/2c413a29-dbab-460a-954a-a67a3ab05801">
+<img width="435" alt="image" src="https://github.com/imymemineyay/Mini-Project-1/assets/117002193/71cf04de-c0d7-4f23-b577-c2a60f07c262">
+<img width="435" alt="image" src="https://github.com/imymemineyay/Mini-Project-1/assets/117002193/47967857-3ff6-4261-8f99-45c9c09c4e10">
